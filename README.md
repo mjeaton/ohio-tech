@@ -16,6 +16,9 @@ hope to keep it updated through community involvement.
 ### July
 * [Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
 
+### August
+* [JavaScript & Friends](https://www.javascriptandfriends.com) - Columbus
+
 ### October
 * [Momentum Developer Conference](https://momentumdevcon.com/) - Cincinnati
 
