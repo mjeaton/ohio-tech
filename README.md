@@ -15,6 +15,7 @@ hope to keep it updated through community involvement.
 
 ### July
 * [Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
+* [PyOhio](https://www.pyohio.org/) - Columbus + Remote
 
 ### August
 * [JavaScript & Friends](https://www.javascriptandfriends.com) - Columbus
@@ -30,6 +31,7 @@ hope to keep it updated through community involvement.
 * [Columbus Ruby Brigade](https://www.columbusrb.com/) - Columbus
 * [Cleveland Product](https://www.meetup.com/Cleveland-Product/) - Cleveland
 * [Cleveland C# User Group](https://www.meetup.com/cleveland-c-vb-net-user-group/) - Cleveland
+* [CLEpy](https://www.clepy.org/) - Cleveland
 * [Hudson Codecraft](https://www.meetup.com/Hudson-Codecraft/) - Cleveland
 * [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/) - Toledo
 * [Toledo Web Professionals](https://www.meetup.com/Toledo-Web-Professionals/) - Toledo
