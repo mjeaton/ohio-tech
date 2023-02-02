@@ -36,3 +36,4 @@ hope to keep it updated through community involvement.
 * [TechLife Columbus](https://www.techlifecolumbus.com/events/)
 * [Gem City Tech / Dayton](https://www.meetup.com/gem-city-tech/)
 * [Sadukie's list of community events](https://github.com/sadukie/community) - focus on Northeast Ohio
+* [OhioX Events page](https://www.ohiox.org/events)
