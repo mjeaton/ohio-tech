@@ -1,5 +1,7 @@
 # Ohio Technical User Groups and Conferences
 
+In an effort to make it easier to find cool user groups and tech events in Ohio, I'm crowd-sourcing this repo.
+
 ## Conferences
 
 ### January
