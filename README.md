@@ -56,6 +56,8 @@ hope to keep it updated through community involvement.
 * [Azure Cleveland](https://www.meetup.com/Azure-Cleveland-Meetup/) - Cleveland
 * [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/) - Cleveland
 * [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/) - Cleveland
+* [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/) - Cleveland
+* [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/) - Columbus
 
 ## Other aggregator sites
 
