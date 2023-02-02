@@ -32,6 +32,7 @@ hope to keep it updated through community involvement.
 * [Toledo Web Professionals](https://www.meetup.com/Toledo-Web-Professionals/) - Toledo
 * [WordPress Toledo](https://www.meetup.com/WordPressToledo/) - Toledo
 * [Northwest Ohio Microsoft 365 User Group](https://www.linkedin.com/groups/4911440/) - Toledo
+* [Women in Tech International (WITI) Columbus](https://witi.com/networks/columbus/) - Columbus
 
 ## Other aggregator sites
 * [TechLife Cincy](https://www.meetup.com/TechLife-Cincinnati/)
