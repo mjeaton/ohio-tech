@@ -19,5 +19,6 @@
 * [Hudson Codecraft](https://www.meetup.com/Hudson-Codecraft/) - Cleveland
 
 ## Other aggregator sites
-* [TechLife Cincy](https://www.meetup.com/TechLife-Cincinnati/) - Cincinnati
+* [TechLife Cincy](https://www.meetup.com/TechLife-Cincinnati/)
 * [TechLife Columbus](https://www.techlifecolumbus.com/events/)
+* [Gem City Tech / Dayton](https://www.meetup.com/gem-city-tech/)
