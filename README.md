@@ -17,6 +17,7 @@
 * [Cleveland Product](https://www.meetup.com/Cleveland-Product/) - Cleveland
 * [Cleveland C# User Group](https://www.meetup.com/cleveland-c-vb-net-user-group/) - Cleveland
 * [Hudson Codecraft](https://www.meetup.com/Hudson-Codecraft/) - Cleveland
+* [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/) - Toledo
 
 ## Other aggregator sites
 * [TechLife Cincy](https://www.meetup.com/TechLife-Cincinnati/)
