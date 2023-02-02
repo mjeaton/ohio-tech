@@ -1,6 +1,7 @@
 # Ohio Technical User Groups and Conferences
 
-In an effort to make it easier to find cool user groups and tech events in Ohio, I'm crowd-sourcing this repo.
+In an effort to make it easier to find cool user groups and tech events in Ohio, I created this repo and 
+hope to keep it updated through community involvement.
 
 ## Conferences
 
