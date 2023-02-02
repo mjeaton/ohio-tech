@@ -20,6 +20,9 @@ In an effort to make it easier to find cool user groups and tech events in Ohio,
 * [Cleveland C# User Group](https://www.meetup.com/cleveland-c-vb-net-user-group/) - Cleveland
 * [Hudson Codecraft](https://www.meetup.com/Hudson-Codecraft/) - Cleveland
 * [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/) - Toledo
+* [Toledo Web Professionals](https://www.meetup.com/Toledo-Web-Professionals/) - Toledo
+* [WordPress Toledo](https://www.meetup.com/WordPressToledo/) - Toledo
+* [Northwest Ohio Microsoft 365 User Group](https://www.linkedin.com/groups/4911440/) - Toledo
 
 ## Other aggregator sites
 * [TechLife Cincy](https://www.meetup.com/TechLife-Cincinnati/)
