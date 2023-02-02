@@ -52,6 +52,10 @@ hope to keep it updated through community involvement.
 * [WordPress Toledo](https://www.meetup.com/WordPressToledo/) - Toledo
 * [Northwest Ohio Microsoft 365 User Group](https://www.linkedin.com/groups/4911440/) - Toledo
 * [Women in Tech International (WITI) Columbus](https://witi.com/networks/columbus/) - Columbus
+* [UX Akron](https://www.meetup.com/uxakron/) - Akron
+* [Azure Cleveland](https://www.meetup.com/Azure-Cleveland-Meetup/) - Cleveland
+* [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/) - Cleveland
+* [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/) - Cleveland
 
 ## Other aggregator sites
 
