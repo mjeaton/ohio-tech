@@ -12,4 +12,5 @@
 [Momentum Developer Conference](https://momentumdevcon.com/) - Cincinnati
 
 ## User Groups
-[Central Ohio .NET Developers Group](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/)
+[Central Ohio .NET Developers Group](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/) - Columbus
+[Columbus Ruby Brigade](https://www.columbusrb.com/) - Columbus
