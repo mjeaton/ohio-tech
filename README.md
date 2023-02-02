@@ -10,6 +10,8 @@ hope to keep it updated through community involvement.
 
 ### May
 * [Stir Trek](https://stirtrek.com) - Columbus
+* [QA or the Highway](https://www.qaorthehwy.com/) - Columbus
+* [Dayton Hamvention](https://hamvention.org/) - Dayton
 
 ### July
 * [Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
