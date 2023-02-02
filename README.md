@@ -60,6 +60,7 @@ listed!
 * [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/) - Cleveland
 * [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/) - Columbus
 * [getWITit Events](https://getwitit.org/events/) - Columbus/Cinci/Cleveland/Pittsburg
+* [ColumbusJS](http://columbusjs.org/) - Columbus
 
 ## Other aggregator sites
 
