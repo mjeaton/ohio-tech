@@ -23,4 +23,4 @@
 * [TechLife Cincy](https://www.meetup.com/TechLife-Cincinnati/)
 * [TechLife Columbus](https://www.techlifecolumbus.com/events/)
 * [Gem City Tech / Dayton](https://www.meetup.com/gem-city-tech/)
-* [Sadukie's list of community events](https://github.com/sadukie/community)
+* [Sadukie's list of community events](https://github.com/sadukie/community) - focus on Northeast Ohio
