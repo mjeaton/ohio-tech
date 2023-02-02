@@ -35,32 +35,45 @@ listed!
 * [Momentum Developer Conference](https://momentumdevcon.com/) - Cincinnati
 * [Pittsburgh Give Camp](https://www.pghgivecamp.org) - Pittsburgh
 
-
 ### December
 
 * [Ohio Linux Fest](https://olfconference.org/) - Columbus
 
 ## User Groups
 
-* [Central Ohio .NET Developers Group](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/) - Columbus
-* [Columbus Ruby Brigade](https://www.columbusrb.com/) - Columbus
-* [Cleveland Product](https://www.meetup.com/Cleveland-Product/) - Cleveland
-* [Cleveland C# User Group](https://www.meetup.com/cleveland-c-vb-net-user-group/) - Cleveland
-* [CLEpy](https://www.clepy.org/) - Cleveland
-* [Hudson Codecraft](https://www.meetup.com/Hudson-Codecraft/) - Cleveland
-* [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/) - Toledo
-* [Toledo Web Professionals](https://www.meetup.com/Toledo-Web-Professionals/) - Toledo
-* [WordPress Toledo](https://www.meetup.com/WordPressToledo/) - Toledo
-* [Northwest Ohio Microsoft 365 User Group](https://www.linkedin.com/groups/4911440/) - Toledo
-* [Women in Tech International (WITI) Columbus](https://witi.com/networks/columbus/) - Columbus
-* [UX Akron](https://www.meetup.com/uxakron/) - Akron
-* [Azure Cleveland](https://www.meetup.com/Azure-Cleveland-Meetup/) - Cleveland
-* [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/) - Cleveland
-* [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/) - Cleveland
-* [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/) - Cleveland
-* [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/) - Columbus
+### Akron
+
+* [UX Akron](https://www.meetup.com/uxakron/)
+
+### Columbus
+
+* [Central Ohio .NET Developers Group](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/)
+* [Columbus Ruby Brigade](https://www.columbusrb.com/)
+* [Women in Tech International (WITI) Columbus](https://witi.com/networks/columbus/)
+* [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/)
+* [ColumbusJS](http://columbusjs.org/)
+
+### Cleveland
+
+* [Cleveland Product](https://www.meetup.com/Cleveland-Product/)
+* [Cleveland C# User Group](https://www.meetup.com/cleveland-c-vb-net-user-group/)
+* [CLEpy](https://www.clepy.org/)
+* [Hudson Codecraft](https://www.meetup.com/Hudson-Codecraft/)
+* [Azure Cleveland](https://www.meetup.com/Azure-Cleveland-Meetup/)
+* [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/)
+* [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/)
+* [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/)
+
+### Toledo
+
+* [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/)
+* [Toledo Web Professionals](https://www.meetup.com/Toledo-Web-Professionals/)
+* [WordPress Toledo](https://www.meetup.com/WordPressToledo/)
+* [Northwest Ohio Microsoft 365 User Group](https://www.linkedin.com/groups/4911440/)
+
+### Multiple cities
+
 * [getWITit Events](https://getwitit.org/events/) - Columbus/Cinci/Cleveland/Pittsburg
-* [ColumbusJS](http://columbusjs.org/) - Columbus
 
 ## Other aggregator sites
 
