@@ -7,11 +7,17 @@ In an effort to make it easier to find cool user groups and tech events in Ohio,
 ### January
 * [Codemash](https://codemash.org) - Sandusky
 
+### May
+* [Stir Trek](https://stirtrek.com) - Columbus
+
 ### July
 * [Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
 
 ### October
 * [Momentum Developer Conference](https://momentumdevcon.com/) - Cincinnati
+
+### December
+* [Ohio Linux Fest](https://olfconference.org/) - Columbus
 
 ## User Groups
 * [Central Ohio .NET Developers Group](https://www.meetup.com/Central-Ohio-NET-Developers-Group-CONDG/) - Columbus
