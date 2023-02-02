@@ -5,6 +5,9 @@
 ### January
 [Codemash](https://codemash.org) - Sandusky
 
+### July
+[Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
+
 ### October
 [Momentum Developer Conference](https://momentumdevcon.com/) - Cincinnati
 
