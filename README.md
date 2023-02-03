@@ -20,14 +20,14 @@ listed!
 
 ### May
 
-* [Central Ohio ISSA Infosec Summit](https://www.infosecsummit.com/website/44575/)
+* [Central Ohio ISSA Infosec Summit](https://www.infosecsummit.com/website/44575/) - Columbus
 
 ### May
 
 * [Stir Trek](https://stirtrek.com) - Columbus
 * [QA or the Highway](https://www.qaorthehwy.com/) - Columbus
 * [Dayton Hamvention](https://hamvention.org/) - Dayton
-* [The Path to Agility](https://www.thepathtoagility.com/)
+* [The Path to Agility](https://www.thepathtoagility.com/) - Columbus
 
 ### June
 
@@ -38,7 +38,7 @@ listed!
 * [Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
 * [Cleveland Give Camp](https://www.clevelandgivecamp.org) - Cleveland
 * [PyOhio](https://www.pyohio.org/) - Columbus + Remote
-* [DataConnect Conference](https://www.dataconnectconf.com/)
+* [DataConnect Conference](https://www.dataconnectconf.com/) - Columbus
 
 ### August
 
