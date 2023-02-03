@@ -52,6 +52,8 @@ listed!
 * [Women in Tech International (WITI) Columbus](https://witi.com/networks/columbus/)
 * [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/)
 * [ColumbusJS](http://columbusjs.org/)
+* [Central Ohio Java User Group (COJUG)](http://www.cojug.org/)
+* [Columbus Cloud Native](https://www.meetup.com/columbus-cloud-native-meetup/)
 
 ### Cleveland
 
