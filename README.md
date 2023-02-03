@@ -73,6 +73,8 @@ listed!
 * [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/)
 * [ColumbusJS](http://columbusjs.org/)
 * [International Institute of Business Analysis - Columbus Chapter](https://www.iibacolumbus.org/monthly-chapter-meetings)
+* [Central Ohio Java User Group (COJUG)](http://www.cojug.org/)
+* [Columbus Cloud Native](https://www.meetup.com/columbus-cloud-native-meetup/)
 
 ### Cleveland
 
@@ -84,6 +86,10 @@ listed!
 * [Google Developer Group Cleveland](https://www.meetup.com/google-developer-group-cleveland/)
 * [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/)
 * [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/)
+
+### Cincinnati
+
+* [Cincinnati .NET User Group - CINNUG](https://www.meetup.com/techlife-cincinnati/events/) - Look through Techlife-Cincy calendar for CINNUG/CinARC meetings
 
 ### Toledo
 
