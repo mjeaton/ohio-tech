@@ -93,7 +93,15 @@ listed!
 
 ## Dayton
 
-* [GemCity TECH](https://www.meetup.com/gem-city-tech/events/) - Currently hosting 8 different monthly tech-focused user groups. For detail: [GemCity TECH](https://GemCity.tech) 
+* [GemCity TECH](https://www.meetup.com/gem-city-tech/events/)
+  * Code for Dayton
+  * New to Tech
+  * Dayton Web Developers
+  * Dayton Dynamic Languages
+  * Dayton .NET Developers
+  * Gem City Game Developers
+  * Frameworks (digital design)
+  * Gem City Machine Learning
 
 ### Toledo
 
