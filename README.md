@@ -14,21 +14,41 @@ listed!
 
 * [Ohio DevFest](https://ohiodevfest.com)
 
+### March
+
+* [The Ohio State University's annual makeathon](https://hack.osu.edu/make/2023/) - Columbus
+
+### May
+
+* [Central Ohio ISSA Infosec Summit](https://www.infosecsummit.com/website/44575/)
+
 ### May
 
 * [Stir Trek](https://stirtrek.com) - Columbus
 * [QA or the Highway](https://www.qaorthehwy.com/) - Columbus
 * [Dayton Hamvention](https://hamvention.org/) - Dayton
+* [The Path to Agility](https://www.thepathtoagility.com/)
+
+### June
+
+* [GDEX, The Midwest’s Premier Gaming Expo](https://www.thegdex.com/) - Columbus
 
 ### July
 
 * [Cincy Deliver](https://www.cincydeliver.org) - Cincinnati
 * [Cleveland Give Camp](https://www.clevelandgivecamp.org) - Cleveland
 * [PyOhio](https://www.pyohio.org/) - Columbus + Remote
+* [DataConnect Conference](https://www.dataconnectconf.com/)
 
 ### August
 
 * [JavaScript & Friends](https://www.javascriptandfriends.com) - Columbus
+* [IT Martini Today](https://www.itmartini.today/) - Columbus
+
+### September
+
+* [Central Ohio Software Symposium](https://nofluffjuststuff.com/columbus) - Columbus
+* [BSIDES Security Conference](https://www.bsidescolumbus.com/) - Columbus
 
 ### October
 
@@ -52,6 +72,7 @@ listed!
 * [Women in Tech International (WITI) Columbus](https://witi.com/networks/columbus/)
 * [Columbus AWS Meetup](https://www.meetup.com/Columbus-AWS-amazon-web-services-Meetup/)
 * [ColumbusJS](http://columbusjs.org/)
+* [International Institute of Business Analysis - Columbus Chapter](https://www.iibacolumbus.org/monthly-chapter-meetings)
 * [Central Ohio Java User Group (COJUG)](http://www.cojug.org/)
 * [Columbus Cloud Native](https://www.meetup.com/columbus-cloud-native-meetup/)
 
