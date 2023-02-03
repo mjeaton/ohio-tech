@@ -66,6 +66,10 @@ listed!
 * [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/)
 * [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/)
 
+### Cincinnati
+
+* [Cincinnati .NET User Group - CINNUG](https://www.meetup.com/techlife-cincinnati/events/) - Look through Techlife-Cincy calendar for CINNUG/CinARC meetings
+
 ### Toledo
 
 * [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/)
