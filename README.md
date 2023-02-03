@@ -91,6 +91,10 @@ listed!
 
 * [Cincinnati .NET User Group - CINNUG](https://www.meetup.com/techlife-cincinnati/events/) - Look through Techlife-Cincy calendar for CINNUG/CinARC meetings
 
+## Dayton
+
+* [GemCity TECH](https://www.meetup.com/gem-city-tech/events/) - Currently hosting 8 different monthly tech-focused user groups. For detail: [GemCity TECH](https://GemCity.tech) 
+
 ### Toledo
 
 * [Northwest Ohio .NET Users Group (NWNUG)](https://www.meetup.com/NW-NUG/)
