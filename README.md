@@ -75,6 +75,7 @@ listed!
 * [International Institute of Business Analysis - Columbus Chapter](https://www.iibacolumbus.org/monthly-chapter-meetings)
 * [Central Ohio Java User Group (COJUG)](http://www.cojug.org/)
 * [Columbus Cloud Native](https://www.meetup.com/columbus-cloud-native-meetup/)
+* [Columbus Elixir](https://www.meetup.com/meetup-group-ihsstvcb/)
 
 ### Cleveland
 
