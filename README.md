@@ -13,14 +13,17 @@ listed!
 ### February
 
 * [Ohio DevFest](https://ohiodevfest.com)
+* [OCWIC Conference](https://ocwic23.ocwic.org/)
 
 ### March
 
 * [The Ohio State University's annual makeathon](https://hack.osu.edu/make/2023/) - Columbus
 
-### May
+### April
 
 * [Central Ohio ISSA Infosec Summit](https://www.infosecsummit.com/website/44575/) - Columbus
+* [ShowOHI/O](https://hack.osu.edu/show/2023/) - Columbus
+* [GiveBackHack](https://givebackhack.com/columbus/) - Columbus
 
 ### May
 
@@ -39,6 +42,7 @@ listed!
 * [Cleveland Give Camp](https://www.clevelandgivecamp.org) - Cleveland
 * [PyOhio](https://www.pyohio.org/) - Columbus + Remote
 * [DataConnect Conference](https://www.dataconnectconf.com/) - Columbus
+* [Women in Analytics DataConnect Conference](https://www.womeninanalytics.com/) - Columbus
 
 ### August
 
@@ -48,7 +52,7 @@ listed!
 ### September
 
 * [Central Ohio Software Symposium](https://nofluffjuststuff.com/columbus) - Columbus
-* [BSIDES Security Conference](https://www.bsidescolumbus.com/) - Columbus
+* [Columbus Security B-Sides](https://www.bsidescolumbus.com) - Columbus
 
 ### October
 
@@ -77,6 +81,10 @@ listed!
 * [Columbus Cloud Native](https://www.meetup.com/columbus-cloud-native-meetup/)
 * [Columbus Elixir](https://www.meetup.com/meetup-group-ihsstvcb/)
 * [Central Ohio Azure](https://www.meetup.com/central-ohio-azure/)
+* [Black Tech 614 - Learning Communities](https://www.eventbrite.com/cc/black-tech-614-learning-communities-334429)
+* [acm-w / OCWiC](https://ocwic.org/) - All over Ohio?
+* [Project Management Institute Central Ohio](https://www.pmicoc.org/)
+* [Central Ohio IT Leaders](https://itleaders.org/central-ohio/)
 
 ### Cleveland
 
