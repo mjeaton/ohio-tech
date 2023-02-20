@@ -14,6 +14,7 @@ listed!
 
 * [Ohio DevFest](https://ohiodevfest.com)
 * [OCWIC Conference](https://ocwic23.ocwic.org/)
+* [Tech Takeover](https://www.techlifecolumbus.com/events/techtakeovertuesdays/) - Columbus
 
 ### March
 
@@ -23,7 +24,6 @@ listed!
 
 * [Central Ohio ISSA Infosec Summit](https://www.infosecsummit.com/website/44575/) - Columbus
 * [ShowOHI/O](https://hack.osu.edu/show/2023/) - Columbus
-* [GiveBackHack](https://givebackhack.com/columbus/) - Columbus
 
 ### May
 
@@ -48,16 +48,25 @@ listed!
 
 * [JavaScript & Friends](https://www.javascriptandfriends.com) - Columbus
 * [IT Martini Today](https://www.itmartini.today/) - Columbus
+* [CIO Tomorrow](https://www.ciotomorrow.com/) - Columbus
 
 ### September
 
 * [Central Ohio Software Symposium](https://nofluffjuststuff.com/columbus) - Columbus
 * [Columbus Security B-Sides](https://www.bsidescolumbus.com) - Columbus
+* [Columbus WITCON](https://getwitit.org/columbus-witcon-2023/) - Columbus
 
 ### October
 
 * [Momentum Developer Conference](https://momentumdevcon.com/) - Cincinnati
 * [Pittsburgh Give Camp](https://www.pghgivecamp.org) - Pittsburgh
+* [GiveBackHack](https://givebackhack.com/columbus/) - Columbus
+* [PMI professional development day](https://www.pmicoc.org/) - Columbus
+
+### November
+
+* [GPSec Columbus Tech Summit](https://www.cdomagazine.tech/cdo_magazine/events/cdo-event-series/) - Columbus
+* [Business Analysts Professional Development Day](https://www.iibacolumbus.org/monthly-chapter-meetings) - Columbus
 
 ### December
 
