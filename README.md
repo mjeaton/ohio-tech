@@ -106,6 +106,7 @@ listed!
 * [Cleveland Java Group](https://www.meetup.com/Cleveland-Java/)
 * [Cleveland PyLadies](https://www.meetup.com/Cle-PyLadies/)
 * [Cleveland Power Platform User Group](https://powerusers.microsoft.com/t5/Cleveland-Power-Platform-User/gh-p/ClevelandPowerPlatformUserGroup)
+* [Cleveland Ruby Brigade](https://www.meetup.com/clevelandruby/)
 
 ### Cincinnati
 
