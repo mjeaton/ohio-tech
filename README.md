@@ -77,6 +77,7 @@ listed!
 ### Akron
 
 * [UX Akron](https://www.meetup.com/uxakron/)
+* [Akron Game Developers](https://www.meetup.com/akron-game-developers/)
 
 ### Columbus
 
