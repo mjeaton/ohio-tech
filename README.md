@@ -95,6 +95,7 @@ listed!
 * [acm-w / OCWiC](https://ocwic.org/) - All over Ohio?
 * [Project Management Institute Central Ohio](https://www.pmicoc.org/)
 * [Central Ohio IT Leaders](https://itleaders.org/central-ohio/)
+* [Columbus Tech Support: Supporting the softer side of tech](https://www.meetup.com/columbus-tech-support/)
 
 ### Cleveland
 
