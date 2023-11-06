@@ -67,6 +67,7 @@ listed!
 
 * [GPSec Columbus Tech Summit](https://www.cdomagazine.tech/cdo_magazine/events/cdo-event-series/) - Columbus
 * [Business Analysts Professional Development Day](https://www.iibacolumbus.org/monthly-chapter-meetings) - Columbus
+* [Queen City Conference](https://queencitycon.org/) - Cincinnati
 
 ### December
 
