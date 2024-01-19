@@ -9,6 +9,7 @@ listed!
 ### January
 
 * [Codemash](https://codemash.org) - Sandusky
+* [Global Game Jam](https://globalgamejam.org/) - Multiple Locations
 
 ### February
 
@@ -96,6 +97,7 @@ listed!
 * [acm-w / OCWiC](https://ocwic.org/) - All over Ohio?
 * [Project Management Institute Central Ohio](https://www.pmicoc.org/)
 * [Central Ohio IT Leaders](https://itleaders.org/central-ohio/)
+* [The Central Ohio GameDev Group](https://thecogg.com/)
 * [Columbus Tech Support: Supporting the softer side of tech](https://www.meetup.com/columbus-tech-support/)
 
 ### Cleveland
