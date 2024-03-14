@@ -99,7 +99,7 @@ listed!
 * [Central Ohio IT Leaders](https://itleaders.org/central-ohio/)
 * [The Central Ohio GameDev Group](https://thecogg.com/)
 * [Columbus Tech Support: Supporting the softer side of tech](https://www.meetup.com/columbus-tech-support/)
-* [Free Code Camp Columbus &#62149;](https://www.fcccolumbus.com/)
+* [Free Code Camp Columbus &#9658;](https://www.fcccolumbus.com/)
 
 ### Cleveland
 
